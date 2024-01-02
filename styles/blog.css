@@ -4,4 +4,21 @@
     background-color: cadetblue;
     color: chartreuse;
     padding: 5%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-color: darkmagenta 10;
+    
+    border-style: dotted ;
+}
+.deep{
+    color: red;
+}
+
+.git{
+    color: blue;
+
+    background-color: coral;
+    border: 10px solid;
+    border-radius: 10px;
+
 }
